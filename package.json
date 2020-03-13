@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kylebarron/vt-to-deck/issues"
   },
-  "homepage": "https://github.com/kylebarron/vt-to-deck#readme"
+  "homepage": "https://github.com/kylebarron/vt-to-deck#readme",
+  "dependencies": {
+    "@mapbox/vector-tile": "^1.3.1"
+  }
 }
