@@ -1,0 +1,23 @@
+{
+  "name": "@kylebarron/vt-to-deck",
+  "version": "0.1.0",
+  "description": "Fast vector tile parsing to deck.gl flat binary arrays",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylebarron/vt-to-deck.git"
+  },
+  "keywords": [
+    "vector-tile",
+    "deck.gl"
+  ],
+  "author": "Kyle Barron (https://kylebarron.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylebarron/vt-to-deck/issues"
+  },
+  "homepage": "https://github.com/kylebarron/vt-to-deck#readme"
+}
